@@ -1,5 +1,5 @@
 {
-	"name": "PecceG2 SNMP Server Add-on",
-	"url": "https://github.com/PecceG2/HASS-SNMP-Sensors-and-Entities-addon",
-	"maintainer": "PecceG2 <me@pecceg2.com"
+	"name": "NAnderson SNMP Server Add-on",
+	"url": "https://github.com/nanderson/Home-Assistant-SNMP-Sensor-Server",
+	"maintainer": "Nathan Anderson <nathan@nathananderson.com>"
 }
